@@ -1,0 +1,104 @@
+[
+    {
+        "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
+        "fileHash": "sha256-4028d8f35d1825f88b578bc7ed0d9b43799013af07d6d69a6f24809d71fe5cc2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 118481,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 16,
+        "internalName": "Cloud-Sync",
+        "description": "Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/Cloud-Sync.cs3",
+        "name": "Cloud-Sync"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
+        "fileHash": "sha256-e90a8c6ba00760f15308462ed67b5e342e429d6ba6738e12376aadd17951a552",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 77525,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 8,
+        "internalName": "plt-party",
+        "description": "plt-party - Sevdiklerinizle senkronize bir \u015fekilde izlemenizi sa\u011flar.",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-party.cs3",
+        "name": "plt-party"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
+        "fileHash": "sha256-8ea11d5478e217810dffff1b813cca032774caed3edbb2fbbeb37d924d5c6a08",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 483892,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 55,
+        "internalName": "plt-stream",
+        "description": "plt-stream - Birden fazla siteden i\u00e7erik sa\u011flayan bir eklenti",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-stream.cs3",
+        "name": "plt-stream"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png",
+        "fileHash": "sha256-46ecee43bb0017102d8412ec861e2eda2a0d7aaa5595b031e36a990dba441c35",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 45596,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "plt-tv",
+        "description": "plt-tv - M3U/M3U8 \u00e7alma listeleri ve canl\u0131 TV yay\u0131nlar\u0131n\u0131 oynat\u0131c\u0131 eklentisi",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-tv.cs3",
+        "name": "plt-tv"
+    },
+    {
+        "iconUrl": "https://trakt.tv/assets/logos/header@2x-d9961f6e076615b3c2b87d90d3d5f992.png",
+        "fileHash": "sha256-ede302067ca1b0eac39b27b4a5b65c4908d35529ef9fac47e5daa8f64b8f53db",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 99287,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 2,
+        "internalName": "trakt-sync",
+        "description": "\u0130zlenen i\u00e7erikleri otomatik izlendi olarak i\u015faretler ve izleme listesini senkronize eder.",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/trakt-sync.cs3",
+        "name": "trakt-sync"
+    }
+]
