@@ -1,0 +1,9 @@
+{
+  "name": "plt-stream",
+  "description": "Bu depo, fazla kaynak eklemekten ziyade az, öz ve kaliteli kaynakları barındırmayı ve var olan kaynakları en stabil şekilde tutmayı hedefler.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plugins.json"
+  ]
+}
