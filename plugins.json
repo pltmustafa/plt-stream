@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-        "fileHash": "sha256-8ea11d5478e217810dffff1b813cca032774caed3edbb2fbbeb37d924d5c6a08",
+        "fileHash": "sha256-8d9a5810da601cdaea2c2d36e64a80f9df0232bd53a387c7eeff25c54eb2cc47",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 483892,
+        "fileSize": 501943,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -55,7 +55,7 @@
             "Movie",
             "Documentary"
         ],
-        "version": 55,
+        "version": 56,
         "internalName": "plt-stream",
         "description": "plt-stream - Birden fazla siteden i\u00e7erik sa\u011flayan bir eklenti",
         "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-stream.cs3",
@@ -82,11 +82,11 @@
         "name": "plt-tv"
     },
     {
-        "iconUrl": "https://trakt.tv/assets/logos/header@2x-d9961f6e076615b3c2b87d90d3d5f992.png",
-        "fileHash": "sha256-ede302067ca1b0eac39b27b4a5b65c4908d35529ef9fac47e5daa8f64b8f53db",
+        "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
+        "fileHash": "sha256-fb2fb34c2241f4885f3b42a5bdab1f5c4182fc1afaa9f6800ef5e4300442d3b5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 99287,
+        "fileSize": 97847,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -95,7 +95,7 @@
         "tvTypes": [
             "All"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "trakt-sync",
         "description": "\u0130zlenen i\u00e7erikleri otomatik izlendi olarak i\u015faretler ve izleme listesini senkronize eder.",
         "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/trakt-sync.cs3",
