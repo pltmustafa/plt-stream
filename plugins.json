@@ -83,10 +83,10 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
-        "fileHash": "sha256-f35913dfe27b9b9de4d773334288d9cb0ade5fa7b01e48666e857621f9b17a6b",
+        "fileHash": "sha256-520786f76846cc879db756d3c798e939c531d81086412206d8e17fb3168b4de7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 98011,
+        "fileSize": 101755,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -95,7 +95,7 @@
         "tvTypes": [
             "All"
         ],
-        "version": 4,
+        "version": 6,
         "internalName": "trakt-sync",
         "description": "\u0130zlenen i\u00e7erikleri otomatik izlendi olarak i\u015faretler ve izleme listesini senkronize eder.",
         "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/trakt-sync.cs3",
