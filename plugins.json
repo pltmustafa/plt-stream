@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
-        "fileHash": "sha256-4028d8f35d1825f88b578bc7ed0d9b43799013af07d6d69a6f24809d71fe5cc2",
+        "fileHash": "sha256-62e6f731e5aa5e201f0c7fa68219088d4bead34d81b9c33c707dbe1f9f744737",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 118481,
+        "fileSize": 119510,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
-        "fileHash": "sha256-e90a8c6ba00760f15308462ed67b5e342e429d6ba6738e12376aadd17951a552",
+        "fileHash": "sha256-6f8892af2a6a8d9d839a33097268ba99ebf0719afa2c0c263c790cafe440205a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 77525,
+        "fileSize": 77686,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -41,10 +41,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-        "fileHash": "sha256-8d9a5810da601cdaea2c2d36e64a80f9df0232bd53a387c7eeff25c54eb2cc47",
+        "fileHash": "sha256-6f4be49d50cbc1484cc5543879d33b5e76e32e4e12181a3a7013467184307956",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 501943,
+        "fileSize": 524904,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -55,7 +55,7 @@
             "Movie",
             "Documentary"
         ],
-        "version": 56,
+        "version": 57,
         "internalName": "plt-stream",
         "description": "plt-stream - Birden fazla siteden i\u00e7erik sa\u011flayan bir eklenti",
         "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-stream.cs3",
@@ -63,10 +63,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png",
-        "fileHash": "sha256-46ecee43bb0017102d8412ec861e2eda2a0d7aaa5595b031e36a990dba441c35",
+        "fileHash": "sha256-01da9b9941fddd0c38b295b012e04a8d650dcfb20521e1ea952227b01800ff8e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 45596,
+        "fileSize": 45746,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -83,10 +83,10 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
-        "fileHash": "sha256-fb2fb34c2241f4885f3b42a5bdab1f5c4182fc1afaa9f6800ef5e4300442d3b5",
+        "fileHash": "sha256-f35913dfe27b9b9de4d773334288d9cb0ade5fa7b01e48666e857621f9b17a6b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-        "fileSize": 97847,
+        "fileSize": 98011,
         "status": 1,
         "language": "tr",
         "authors": [
