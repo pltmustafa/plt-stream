@@ -1,3 +1,5 @@
+## Plt-stream yasal sebeplerden dolayı kapanmıştır. plt-sync, plt-party, plt-tv kullanılmaya devam edilebilir 
+
 <div align="center">
 
   <a href="https://pltmustafa.github.io/plt-stream/redirect/?r=cloudstreamrepo://raw.githubusercontent.com/pltmustafa/plt-stream/refs/heads/master/repo.json">
