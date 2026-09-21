@@ -1,0 +1,104 @@
+[
+    {
+        "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
+        "fileHash": "sha256-62e6f731e5aa5e201f0c7fa68219088d4bead34d81b9c33c707dbe1f9f744737",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 119510,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 16,
+        "internalName": "Cloud-Sync",
+        "description": "Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/Cloud-Sync.cs3",
+        "name": "Cloud-Sync"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
+        "fileHash": "sha256-6f8892af2a6a8d9d839a33097268ba99ebf0719afa2c0c263c790cafe440205a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 77686,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 8,
+        "internalName": "plt-party",
+        "description": "plt-party - Sevdiklerinizle senkronize bir \u015fekilde izlemenizi sa\u011flar.",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-party.cs3",
+        "name": "plt-party"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png",
+        "fileHash": "sha256-01da9b9941fddd0c38b295b012e04a8d650dcfb20521e1ea952227b01800ff8e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 45746,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "plt-tv",
+        "description": "plt-tv - M3U/M3U8 \u00e7alma listeleri ve canl\u0131 TV yay\u0131nlar\u0131n\u0131 oynat\u0131c\u0131 eklentisi",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-tv.cs3",
+        "name": "plt-tv"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
+        "fileHash": "sha256-bc0d341b51844222c5a3046f42ff2ff1aa2a0e93d41fa35bb4ad9b753227e38d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 110054,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 7,
+        "internalName": "trakt-sync",
+        "description": "\u0130zlenen i\u00e7erikleri otomatik izlendi olarak i\u015faretler ve izleme listesini senkronize eder.",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/trakt-sync.cs3",
+        "name": "trakt-sync"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
+        "fileHash": "sha256-f123cc72f04e07445a1d431180fbf938f16fb74ec00b8bc3e315d53dd4771b59",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
+        "fileSize": 1067003,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 99,
+        "internalName": "plt-stream",
+        "description": "plt-stream - Birden fazla siteden i\u00e7erik sa\u011flayan bir eklenti",
+        "url": "https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plt-stream.cs3",
+        "name": "plt-stream"
+    }
+]
